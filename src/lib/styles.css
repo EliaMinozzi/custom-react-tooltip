@@ -53,7 +53,6 @@
           display: flex;
           border-radius: 4px;
           position: relative;
-          right: 70%;
         }
           /* &.left{
             right: 20% !important;
